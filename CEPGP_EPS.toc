@@ -1,0 +1,10 @@
+## Interface: 11305
+## Title: Classic EPGP EP Smoothing
+## Author: markus101
+## Notes: Provides functionality to smooth EP by setting a maximum EP value and having all guild members above that value set to that value instead.
+## Version: 1.0.0
+## Dependencies: CEPGP
+## DefaultState: enabled
+## SavedVariables: CEPGP_EPS
+
+CEPGP_EPS.lua
